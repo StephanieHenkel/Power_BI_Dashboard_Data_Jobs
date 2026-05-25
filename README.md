@@ -39,13 +39,13 @@ The report consists of two complementary pages, offering both a broad market ove
 
 ### Page 1: Data Job Market Overview
 
-![Dashboard Page 1](/images/project_page_1.png)
+![Dashboard Page 1](/images/page_1_recording.gif)
 
 This page serves as a high‑level snapshot of the data job landscape. It highlights essential KPIs such as the total job count or median salaries to help users quickly understand overall trends at a glance.
 
 ### Page 2: Role‑Specific Drill‑Through
 
-![Dashboard Page 1](/images/project_page_2.png)
+![Dashboard Page 1](/images/page_2_recording.gif)
 
 This page provides a deeper, more detailed look at an individual job title. From the main dashboard, users can drill through to explore metrics such as remote‑work availability, leading hiring platforms, and a map showing role specific global job counts.
 
